@@ -27,4 +27,4 @@ Should you encounter any issues during the creation or booting process, feel fre
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please feel free to submit an issue or a pull request.
 
-## !! All the scripts are in spanish !!
+** !! All the scripts are in spanish !!
