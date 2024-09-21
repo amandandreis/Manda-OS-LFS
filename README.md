@@ -1,5 +1,4 @@
 # Manda-OS-LFS
-![imagen](https://github.com/user-attachments/assets/f800afbc-f371-47b8-8637-a9fc58ec751a)
 
 ## Overview
 **Manda-OS** is a customized Linux distribution built from the ground up using Linux From Scratch. This project representsa lot of dedicated work to understand the fundamental components of an operating system. Throughout the process, I have delved into software compilation, package management, and kernel configuration, resulting in a functional system.
