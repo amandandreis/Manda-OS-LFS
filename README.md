@@ -28,3 +28,8 @@ Should you encounter any issues during the creation or booting process, feel fre
 Contributions are welcome! If you have suggestions or improvements, please feel free to submit an issue or a pull request.
 
 **!! All the scripts are in spanish !!**
+
+##
+![imagen](https://github.com/user-attachments/assets/b0aefece-685b-41bd-97fc-be6215fa55d4)
+
+
